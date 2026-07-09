@@ -1,0 +1,44 @@
+# Compiled Java classes
+*.class
+
+# Packaged files
+*.jar
+*.war
+*.ear
+
+# JVM crash logs
+hs_err_pid*
+
+# VS Code
+.vscode/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# NetBeans
+nbproject/private/
+build/
+dist/
+
+# Local application data
+books.dat
+
+# Ignore everything inside data
+data/*
+
+# Except this placeholder
+!data/.gitkeep
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
