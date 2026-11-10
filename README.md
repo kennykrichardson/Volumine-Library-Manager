@@ -84,9 +84,7 @@ java Main
 - Dark Mode
 - Export to CSV
 - Categories and tags
-- User authentication
 - Lending history
-- Due dates
 - Sorting and filtering
 - Dashboard analytics
 
