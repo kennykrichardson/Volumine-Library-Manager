@@ -2,6 +2,8 @@
 
 Volumine is a desktop library management application built with Java Swing. It allows users to organize, manage, and track books through a clean graphical interface without requiring an internet connection or external database.
 
+🌐 **[Explore my Complete Portfolio](https://www.kennykrichardson.com)**
+
 ---
 
 ## Features
