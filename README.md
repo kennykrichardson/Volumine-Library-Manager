@@ -6,26 +6,15 @@ Volumine is a desktop library management application built with Java Swing. It a
 
 ---
 
-## Features
-
-- 📖 Add new books
-- ✏️ Edit existing books
-- 🗑 Delete books
-- 🔄 Borrow / Return books
-- 🔍 Search by title, author, or genre
-- 📊 Live library statistics
-- 💾 Automatic local data saving
-- 🖥 Modern Swing interface
-
----
-
-## Technologies
-
-- Java
-- Java Swing
-- Object-Oriented Programming
-- Serialization
-- Java Collections Framework
+| 📚 Features | 🛠 Technologies |
+|------------|----------------|
+| 📖 Add / Edit Books | ☕ Java |
+| 🗑 Delete Books | 🖼️ Java Swing |
+| 🔄 Borrow / Return System | 🧩 OOP |
+| 🔍 Search by Title, Author, Genre | 💾 Serialization |
+| 📊 Live Statistics | 📚 Collections Framework |
+| 💾 Local Data Persistence | |
+| 🖥️ Modern Swing UI | |
 
 ---
 
